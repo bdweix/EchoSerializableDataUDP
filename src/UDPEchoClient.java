@@ -83,7 +83,6 @@ public class UDPEchoClient {
       System.out.println("Exception thrown trying to send data." );
       System.out.println(e);
     }
-
   }
 
   private static void receiveData() {
