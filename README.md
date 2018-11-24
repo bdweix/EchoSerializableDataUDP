@@ -137,4 +137,9 @@ There are a handful of other things I changed, but those were some of the main c
 
 The resulting code is now broken up into 9 new functions. The Syntax highlighting is slightly off at parts due to the screenshots from Atom, not the IntelliJ editor I wrote it in.
 
+ ### UDPEchoServer (original)
+ I won't go indepth how I refactored these. Images below and source code in the repository.
+ ![Part 1:](https://s3.us-east-2.amazonaws.com/aryeo-testing/Screen+Shot+2018-11-23+at+11.50.25+PM.png)
  
+  ### UDPEchoServer (refactored)
+ ![Part 1:](https://s3.us-east-2.amazonaws.com/aryeo-testing/Screen+Shot+2018-11-23+at+11.50.42+PM.png)
