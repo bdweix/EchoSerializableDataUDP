@@ -131,9 +131,9 @@ There are a handful of other things I changed, but those were some of the main c
 
 ##UDPEchoClient (refactored code)
 
-![Screen Shot 2018-11-23 at 11.08.53 PM](/Users/branick-developer/Desktop/Screen Shot 2018-11-23 at 11.08.53 PM.png)
+![Part 1:](https://s3.us-east-2.amazonaws.com/aryeo-testing/Screen+Shot+2018-11-23+at+11.08.53+PM.png)
 
-![Screen Shot 2018-11-23 at 11.09.12 PM](/Users/branick-developer/Desktop/Screen Shot 2018-11-23 at 11.09.12 PM.png)
+![Part 2:](https://s3.us-east-2.amazonaws.com/aryeo-testing/Screen+Shot+2018-11-23+at+11.09.12+PM.png)
 
 The resulting code is now broken up into 9 new functions. The Syntax highlighting is slightly off at parts due to the screenshots from Atom, not the IntelliJ editor I wrote it in.
 
