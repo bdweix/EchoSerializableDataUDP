@@ -64,7 +64,7 @@ Some things I hate:
 
 Let's start at the top. This is code presented to us:
 
-![Screen Shot 2018-11-23 at 11.18.17 PM](/Users/branick-developer/Desktop/Screen Shot 2018-11-23 at 11.18.17 PM.png)
+![Original Code](https://s3.us-east-2.amazonaws.com/aryeo-testing/Screen+Shot+2018-11-23+at+11.08.31+PM.png)
 
 **Import Classes (Lines 2-14):**
 
